@@ -229,10 +229,12 @@ h1 {
 		img {
 			margin-top:-60px;
 			max-width:420px;
-			margin-bottom:-10px;
+			margin-bottom:-20px;
+			border-radius: 20px;
 		}
 	}
 }
+
 
 .logos {
 	background-color: var(--base-100);
